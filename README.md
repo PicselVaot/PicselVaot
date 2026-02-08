@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Logo LassaInora](https://raw.githubusercontent.com/LassaInora/LassaInora/refs/heads/main/.github/assets/Logo.png)](https://lassainora.fr/)
-# Picsel │ LassaInora
-[![GitHub followers](https://img.shields.io/github/followers/LassaInora?style=social)](https://github.com/LassaInora?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/LassaInora)](https://github.com/LassaInora?tab=stars)
+[![Logo PicselVaot](https://raw.githubusercontent.com/PicselVaot/PicselVaot/refs/heads/main/.github/assets/Logo.png)](https://picselvaot.fr/)
+# PicselVaot
+[![GitHub followers](https://img.shields.io/github/followers/PicselVaot?style=social)](https://github.com/PicselVaot?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/PicselVaot)](https://github.com/PicselVaot?tab=stars)
 
 ---
 
@@ -11,8 +11,8 @@
 
 ---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=LassaInora&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=fr&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LassaInora&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PicselVaot&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=fr&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PicselVaot&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 
 ---
 
@@ -48,7 +48,7 @@
 [![PlaylistBlocage.png](.github/assets/plaques/Playlist-Blocage.png)](https://open.spotify.com/playlist/1r5onrinqUbAF5MvD5Y4yq)
 
 ## Faire du bruit
-[![PlaylistBlocage.png](.github/assets/plaques/Composition-Wake_up_Time.png)](https://github.com/LassaInora/LassaInora/raw/refs/heads/main/.github/assets/music/Wake%20up%20Time.flac)
+[![PlaylistBlocage.png](.github/assets/plaques/Composition-Wake_up_Time.png)](https://github.com/PicselVaot/PicselVaot/raw/refs/heads/main/.github/assets/music/Wake%20up%20Time.flac)
 
 ## Courir partout avec un appareil photo
 
@@ -61,24 +61,24 @@
 
 ### Mes réseaux
 
-[![Bluesky - lassainora.fr](.github/assets/buttons/bluesky_button.png)](https://bsky.app/profile/lassainora.fr)
-[![GitHub - LassaInora](.github/assets/buttons/github_button.png)](https://github.com/LassaInora)
+[![Bluesky - PicselVaot.fr](.github/assets/buttons/bluesky_button.png)](https://bsky.app/profile/picselvaot.fr)
+[![GitHub - PicselVaot](.github/assets/buttons/github_button.png)](https://github.com/PicselVaot)
 [![Instagram - picsel._](.github/assets/buttons/instagram_button.png)](https://www.instagram.com/picsel._/)
 [![Twitch - picsel__](.github/assets/buttons/twitch_button.png)](https://www.twitch.tv/picsel__)
 [![Youtube - @picsel_](.github/assets/buttons/youtube_button.png)](https://www.youtube.com/@picsel_)
 [![Twitter - _Picsel](.github/assets/buttons/twitter_button.png)](https://x.com/_Picsel)
-[![LassaInora - Website](.github/assets/buttons/lassainora_button.png)](https://lassainora.fr)
+[![PicselVaot - Website](.github/assets/buttons/lassainora_button.png)](https://picselvaot.fr)
 
 ___
 
 ### Licences
-Unless otherwise stated, my projects are under the [GNU General Public License v3](https://raw.githubusercontent.com/LassaInora/LassaInora/refs/heads/main/.github/LICENSE).
+Unless otherwise stated, my projects are under the [GNU General Public License v3](https://raw.githubusercontent.com/PicselVaot/PicselVaot/refs/heads/main/.github/LICENSE).
 
 ---
 
 Do you want to support me?
 
-[![Static Badge](https://img.shields.io/badge/Paypal-LassaInora-009CDE?labelColor=003087)](https://paypal.me/LassaInora)
+[![Static Badge](https://img.shields.io/badge/Paypal-PicselVaot-009CDE?labelColor=003087)](https://paypal.me/PicselVaot)
 
 ---
 
