@@ -44,13 +44,10 @@
 ![Mes IDE](https://skillicons.dev/icons?i=pycharm,idea,clion,phpstorm,webstorm,atom,emacs)
 
 # Mes passions:
-## Écouter de la musiques
-[![PlaylistBlocage.png](.github/assets/plaques/Playlist-Blocage.png)](https://open.spotify.com/playlist/1r5onrinqUbAF5MvD5Y4yq)
-
 ## Faire du bruit
-[![PlaylistBlocage.png](.github/assets/plaques/Composition-Wake_up_Time.png)](https://github.com/PicselVaot/PicselVaot/raw/refs/heads/main/.github/assets/music/Wake%20up%20Time.flac)
+[![PlaylistBlocage.png](.github/assets/plaques/Composition-Wake_up_Time.png)](https://soundcloud.com/picsel_vaot/wake-up-time?utm_medium=text&utm_campaign=social_sharing)
 
-## Courir partout avec un appareil photo
+## Et courir partout avec un appareil photo
 
 <img src=".github/assets/images/image1.jpg" alt="image 1" height="100"/>
 <img src=".github/assets/images/image2.jpg" alt="image 2" height="100"/>
