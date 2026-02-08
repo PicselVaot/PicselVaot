@@ -29,7 +29,7 @@
 
 ### Mes OS
 
-![Mes OS](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi,windows)
+![Mes OS](https://skillicons.dev/icons?i=ubuntu,raspberrypi,windows)
 
 ### Mes langages
 
